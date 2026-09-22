@@ -18,7 +18,7 @@ $app->addErrorMiddleware(APP_ENV === 'development', true, true);
 // --- Route di esempio ---
 
 $app->get('/', function (Request $request, Response $response) {
-    $response->getBody()->write('Progetto didattico - in costruzione');
+    $response->getBody()->write('Progetto ciao mondo');
     return $response;
 });
 

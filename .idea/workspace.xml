@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="" />
+    <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,14 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="PHP File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -47,7 +59,7 @@
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.ColorSchemeFont"
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,6 +67,7 @@
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto\www" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto\www\public" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto" />
     </key>
   </component>
@@ -77,6 +90,8 @@
       <workItem from="1789464716180" duration="265000" />
       <workItem from="1789465027958" duration="532000" />
       <workItem from="1789808709697" duration="2283000" />
+      <workItem from="1789811132037" duration="62000" />
+      <workItem from="1790066357610" duration="3455000" />
     </task>
     <servers />
   </component>
