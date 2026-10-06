@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="PHP File" />
         <option value="HTML File" />
+        <option value="PHP File" />
       </list>
     </option>
   </component>
@@ -98,7 +98,9 @@
       <workItem from="1790066357610" duration="3946000" />
       <workItem from="1790070379578" duration="138000" />
       <workItem from="1790413636839" duration="656000" />
-      <workItem from="1790669451787" duration="5009000" />
+      <workItem from="1790669451787" duration="5443000" />
+      <workItem from="1790675380158" duration="44000" />
+      <workItem from="1791274002714" duration="5872000" />
     </task>
     <servers />
   </component>

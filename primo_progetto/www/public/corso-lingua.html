@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Codi di Lingua</title>
+</head>
+<body>
+    <form action="corso.php" method="post">
+        <p>
+            <label for="cognome">Cognome:</label><br>
+            <input type="text" id="cognome" name="cognome" required>
+        </p>
+        <p>
+            <label for="nome">Nome:</label><br>
+            <input type="text" id="nome" name="nome" required>
+        </p>
+        <p>
+            <label for="mail">E-mail:</label><br>
+            <input type="email" id="email" name="email" required>
+        </p>
+        <p>
+            <label for="corso">Corso di Lingua:</label><br>
+            <select id="corso" name="corso" required>
+                <option value="inglese">inglese</option>
+                <option value="francese">francese</option>
+                <option value="spagnolo">spagnolo</option>
+                <option value="tedesco">tedesco</option>
+            </select>
+        </p>
+        <p>
+            <label>Livello:</label><br>
+            <input type="radio" id="base" name="livello" value="base" required checked>
+            <label for="base">Base</label>
+    
+            <input type="radio" id="intermedio" name="livello" value="intermedio">
+            <label for="intermedio">Intermedio</label>
+    
+            <input type="radio" id="avanzato" name="livello" value="avanzato">
+            <label for="avanzato">Avanzato</label>
+        </p>
+        <p>
+            <label>Preferenza orario:</label><br>
+            <input type="checkbox" id="mattino" name="orario[]" value="mattino">
+            <label for="mattino">Mattino</label><br>
+    
+            <input type="checkbox" id="pomeriggio" name="orario[]" value="pomeriggio">
+            <label for="pomeriggio">Pomeriggio</label><br>
+    
+            <input type="checkbox" id="sera" name="orario[]" value="sera">
+            <label for="sera">Sera</label>
+        </p>
+    
+        <p>
+            <label for="richieste">Altre richieste:</label><br>
+            <textarea id="richieste" name="richieste" rows="4" cols="30">nessuna</textarea>
+        </p>
+    
+        <p>
+            <input type="reset" value="Reset">
+            <input type="submit" value="Invia">
+        </p>
+    </form>
+</body>
+</html>
