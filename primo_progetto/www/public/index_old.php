@@ -18,7 +18,12 @@ $app->addErrorMiddleware(APP_ENV === 'development', true, true);
 // --- Route di esempio ---
 
 $app->get('/', function (Request $request, Response $response) {
-    $response->getBody()->write('Progetto ciao mondo');
+    $html = '<a href="pizzeria.html">Simulazione di una Pizzeria</a><br>'
+        . '<a href="tavola-pita.php">Tavola Pitagorica</a><br>'
+        . '<a href="corso-lingua.html">Simulazione iscrizione a dei Corsi di Lingua</a>';
+
+    $response->getBody()->write($html);
+
     return $response;
 });
 

@@ -24,7 +24,7 @@
         echo "<p>Stiamo verificando tutti i dati, le invieremo la risposta a " . htmlspecialchars($email) . "</p>";
 
     } else {
-        header("Location: index.php");
+        header("Location: index_old.php");
         exit();
     }
 ?>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="UTF-8">
+	<!-- Questa parte aggiunge stile usando HTML semantico a costo zero -->
+	<!-- Usando header, main e footer HTML, viene centrato il layout automaticamente -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
+	>
+	<title>Pizzeria Gaburri</title>
+</head>
+<body>
+<main>
+	<h1>Prenota la tua Pizza</h1>
+	<form action="pizzeria.php" method="post">
+		<p>
+			<label for="sistemazione">Tipo di sistemazione:</label><br>
+			<select id="sistemazione" name="sistemazione" required>
+				<option value="veranda">veranda</option>
+				<option value="giardino">giardino</option>
+				<option value="coperto">coperto</option>
+				<option value="ala vip">ala vip</option>
+			</select>
+		</p>
+		<p>
+			<label for="pizza">Tipo di sistemazione:</label><br>
+			<select id="pizza" name="pizza" required>
+				<option value="margherita">margherita</option>
+				<option value="diavola">diavola</option>
+				<option value="formaggi">4 formaggi</option>
+				<option value="bambini">wurstel e patatine</option>
+			</select>
+		</p>
+		<p>
+			<label>Preferenza Aggiunte:</label><br>
+			<input type="checkbox" id="prosciutto" name="aggiunte[]" value="prosciutto">
+			<label for="prosciutto">Prosciutto</label><br>
+			
+			<input type="checkbox" id="melanzana" name="aggiunte[]" value="melanzana">
+			<label for="melanzana">Melanzana</label><br>
+			
+			<input type="checkbox" id="ricotta" name="aggiunte[]" value="ricotta">
+			<label for="ricotta">Ricotta</label><br>
+			
+			<input type="checkbox" id="salsiccia" name="aggiunte[]" value="salsiccia">
+			<label for="salsiccia">Salsiccia</label><br>
+		</p>
+		<p>
+			<label>Preferenza Impasto:</label><br>
+			<input type="radio" id="normale" name="livello" value="normale">
+			<label for="normale">Normale</label>
+			
+			<input type="radio" id="senza glutine" name="livello" value="senza glutine">
+			<label for="senza glutine">Senza Glutine</label>
+		</p>
+		
+		<p>
+			<input type="submit" value="Invia">
+		</p>
+	</form>
+</main>
+</body>
+</html>

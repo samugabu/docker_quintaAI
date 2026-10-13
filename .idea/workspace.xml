@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/corso-lingua.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/corso-lingua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/corso.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/corso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/index_old.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/tavola-pita.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="PHP File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,21 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/76637338/Documents/GitHub/docker_quintaAI/primo_progetto/www&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/76637338/Documents/GitHub/docker_quintaAI/primo_progetto/www",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto\www" />
@@ -101,7 +107,9 @@
       <workItem from="1790669451787" duration="5443000" />
       <workItem from="1790675380158" duration="44000" />
       <workItem from="1791274002714" duration="5872000" />
-      <workItem from="1791622890686" duration="2215000" />
+      <workItem from="1791622890686" duration="2554000" />
+      <workItem from="1791625523969" duration="299000" />
+      <workItem from="1791878819226" duration="5683000" />
     </task>
     <servers />
   </component>
