@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/pizzeria.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/pizzeria.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <workItem from="1791622890686" duration="2554000" />
       <workItem from="1791625523969" duration="299000" />
       <workItem from="1791878819226" duration="6008000" />
-      <workItem from="1792227894321" duration="579000" />
+      <workItem from="1792227894321" duration="882000" />
     </task>
     <servers />
   </component>
