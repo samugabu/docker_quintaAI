@@ -15,4 +15,3 @@
     echo "<p> La pizza " . htmlspecialchars($pizza) . " con impasto " . htmlspecialchars($livello) .
         " e con aggiunte di: " . htmlspecialchars($aggiunte_testo) . "</p>";
     echo "<p> E' stata correttamnte prenotata in: " . htmlspecialchars($sistemazione);
-?>
