@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/prenota.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/prenota.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
       <workItem from="1791878819226" duration="6008000" />
       <workItem from="1792227894321" duration="2652000" />
       <workItem from="1792483823124" duration="5538000" />
-      <workItem from="1792832555433" duration="1784000" />
+      <workItem from="1792832555433" duration="2900000" />
     </task>
     <servers />
   </component>
