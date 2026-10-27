@@ -79,7 +79,7 @@
         <p>
             <button type="submit">Calcola prezzo</button>
         </p>
-        <p><a href="home-spedizione.html">Torna alla home</a></p>
+        <p><a href="home-spedizione.php">Torna alla home</a></p>
     </form>
 
     <?php if ($invio_modulo): ?>
