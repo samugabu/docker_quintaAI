@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/tabellina.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/tabellina.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/tabelline.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/tabelline.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-plates/www/templates/tabellina.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/templates/tabellina.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-plates/www/templates/tabelline.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/templates/tabelline.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +63,23 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/76637338/Documents/GitHub/docker_quintaAI",
+    "last_opened_file_path": "C:/Users/76637338/Documents/GitHub/docker_quintaAI/progetto-plates/www/templates",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\progetto-plates\www\templates" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto\www" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\progetto-plates\www\templates" />
+      <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\progetto-plates\www\public" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\progetto-template\www\public" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto\www\public" />
       <recent name="C:\Users\76637338\Documents\GitHub\docker_quintaAI\primo_progetto" />
@@ -111,6 +119,7 @@
       <workItem from="1792832555433" duration="2900000" />
       <workItem from="1793092006292" duration="5251000" />
       <workItem from="1793696856527" duration="1504000" />
+      <workItem from="1794046287579" duration="2223000" />
     </task>
     <servers />
   </component>
