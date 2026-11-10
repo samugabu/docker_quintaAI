@@ -19,12 +19,16 @@ class PeopleRepository
                 'cognome' => 'Lovelace',
                 'nazionalita' => 'Inglese',
                 'anno_nascita' => 1815,
+                'immagine' => '',
+                'desc-img' => '',
             ],
             '3' => [
                 'nome' => 'Grace',
                 'cognome' => 'Hopper',
                 'nazionalita' => 'Americana',
                 'anno_nascita' => 1906,
+                'immagine' => '',
+                'desc-img' => '',
             ]
         ];
     }
