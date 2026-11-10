@@ -19,8 +19,8 @@ class PeopleRepository
                 'cognome' => 'Lovelace',
                 'nazionalita' => 'Inglese',
                 'anno_nascita' => 1815,
-                'immagine' => '',
-                'desc-img' => '',
+                'immagine' => 'ada.jpg',
+                'desc-img' => 'Ada Lovelace Quadro',
             ],
             '3' => [
                 'nome' => 'Grace',

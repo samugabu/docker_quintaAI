@@ -4,7 +4,6 @@
     <list default="true" id="4aec9b9c-a319-4fc8-ac55-1d537aed4ed6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progetto-plates/www/src/Model/PeopleRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/src/Model/PeopleRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/templates/schede.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/templates/schede.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <workItem from="1793696856527" duration="1504000" />
       <workItem from="1794046287579" duration="2332000" />
       <workItem from="1794302151912" duration="306000" />
-      <workItem from="1794302491598" duration="3943000" />
+      <workItem from="1794302491598" duration="4337000" />
     </task>
     <servers />
   </component>
