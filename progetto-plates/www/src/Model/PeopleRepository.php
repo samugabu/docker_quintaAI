@@ -11,6 +11,8 @@ class PeopleRepository
                 'cognome' => 'Turing',
                 'nazionalita' => 'Inglese',
                 'anno_nascita' => 1912,
+                'immagine' => 'alanturing.webp',
+                'desc-img' => 'Foto di Alan Turing, un matematico',
             ],
             '2' => [
                 'nome' => 'Ada',
@@ -25,5 +27,11 @@ class PeopleRepository
                 'anno_nascita' => 1906,
             ]
         ];
+    }
+
+    static function getPeopleByID(int $id): array
+    {
+        $persone = self::getPeople();
+        return $persone[$id];
     }
 }
